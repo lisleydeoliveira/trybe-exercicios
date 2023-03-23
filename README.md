@@ -1,2 +1,2 @@
 # trybe-exercicios
-Exercícios Trybe
+Exercícios Trybe, desenvolvidos aula após aula.
