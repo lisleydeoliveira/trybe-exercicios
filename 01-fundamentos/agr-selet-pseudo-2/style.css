@@ -1,0 +1,65 @@
+#cor-primaria {
+    background-color: blue;
+}
+
+#cor-secundaria {
+    background-color: green;
+}
+
+#cor-complementar {
+    background-color: rgb(231, 163, 36);
+}
+
+#cor-escura {
+    background-color: black;
+}
+
+#cor-clara {
+    background-color: beige;
+}
+
+#primaria {
+    color: pink;
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#secundaria {
+    color: white;
+    font-size:larger;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#complementar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    color: darkblue;
+}
+
+#black {
+    color: antiquewhite;
+    font-size: large;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#clara {
+    color: black;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.border:hover {
+    border: 4px solid red;
+}
+
+h3:nth-child(odd) {
+    font-style: italic;
+}
+
+div:nth-of-type(3) {
+    padding: 2px;
+}
