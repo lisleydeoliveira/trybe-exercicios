@@ -1,3 +1,19 @@
-.lista {
-    font-align: center;
+body{
+    font-style:italic ;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: large;
+    list-style: none;
+    background-color: bisque;
+}
+
+h1, p {
+    text-align: center;
+}
+
+li:hover {
+    background-color: aquamarine;
+}
+
+li:active {
+    color:chartreuse ;
 }
