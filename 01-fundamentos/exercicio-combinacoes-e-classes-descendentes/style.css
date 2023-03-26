@@ -1,0 +1,29 @@
+li {
+    background: yellow;
+    font-size: 20px;
+}
+
+li:nth-child(even) {
+    background-color: green;
+}
+
+li:nth-child(odd) {
+    text-transform:uppercase ;
+}
+
+h1, h3 {
+    color: red;
+}
+
+#italic {
+    font-size: 40px;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.blue-color{
+    color: blue;
+}
+
